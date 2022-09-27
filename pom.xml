@@ -23,6 +23,8 @@
             <version>1.0.0-beta2</version>
         </dependency>
     </dependencies>
-
+    <pluginGroups>
+         <pluginGroup>org.sonarsource.scanner.maven</pluginGroup>
+    </pluginGroups>
 
 </project>
